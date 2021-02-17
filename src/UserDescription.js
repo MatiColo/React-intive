@@ -26,10 +26,6 @@ const UserDescription = ({ user, handleBackClick }) => {
             {user.name.first} {user.name.last}
           </div>
           <div className="user-description-data-item">
-            <label>Age: </label>
-            {user.dob.age}
-          </div>
-          <div className="user-description-data-item">
             <label>Email: </label>
             {user.email}
           </div>

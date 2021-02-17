@@ -46,7 +46,8 @@ const UsersList = () => {
           initialLoad={false}
           loadMore={loadFunc}
           hasMore={hasMore}
-          loader={<span />}
+          // React infinite scroller has a problem when you define a custom loader, it throws a warning, which is solved by adding a key to the element that is rendered in the custom loader
+          loader={<span key={0} />}
         >
           {users.map((user) => (
             <UsersListItem
