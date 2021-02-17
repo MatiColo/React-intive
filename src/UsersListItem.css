@@ -4,21 +4,25 @@
   border-radius: 7px;
   background-color: #bed3c3;
   margin: 10px;
+  height: 160px;
+  box-shadow: 10px 5px 5px black;
 }
 
 .users-list-item > .img-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100px;
+  width: 130px;
 }
 
 .users-list-item > .img-container > img {
-  height: 72px;
-  width: 72px;
+  height: 125px;
+  width: 125px;
   border: 3px solid whitesmoke;
   border-radius: 15px;
   display: block;
+  margin-left: 15px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .users-list-item > .img-container > img:hover {
@@ -27,15 +31,15 @@
 
 .users-list-item > .data-container {
   padding: 15px;
-  width: 180px;
-
+  width: 185px;
+  margin-left: 8px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
 }
 
 .users-list-item > .data-container > .data-item > label {
-  font-size: 13px;
+  font-size: 15px;
   font-style: italic;
   font-weight: bold;
   text-decoration: underline;
@@ -47,4 +51,14 @@
   white-space: normal;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.users-list-item-enter {
+  opacity: 0;
+  transform: scale(0.6);
+}
+
+.users-list-item-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 1000ms, transform 1000ms;
 }
