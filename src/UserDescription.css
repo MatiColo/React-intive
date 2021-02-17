@@ -1,0 +1,46 @@
+.user-description-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 350px;
+  border: 4px solid black;
+  border-radius: 20px;
+  background-color: #bed3c3;
+  padding: 15px;
+}
+
+.user-description-container > div:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.user-description-img {
+  display: flex;
+  justify-content: center;
+}
+
+.user-description-img > img {
+  border-radius: 50%;
+  border: 3px solid whitesmoke;
+}
+
+.user-description-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.user-description-data-item > label {
+  font-weight: bold;
+}
+
+.user-description-navigation > button {
+  border: none;
+  background-color: #4a919e;
+  padding: 10px;
+  color: white;
+  width: 100%;
+}
+
+.user-description-navigation > button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}

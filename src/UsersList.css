@@ -1,0 +1,11 @@
+.users-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.user-description {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

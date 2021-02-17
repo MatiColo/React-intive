@@ -1,0 +1,282 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Esat",
+      "last": "Denkel"
+    },
+    "location": {
+      "street": {
+        "number": 9767,
+        "name": "Bağdat Cd"
+      },
+      "city": "Kayseri",
+      "state": "Sinop",
+      "country": "Turkey",
+      "postcode": 93298,
+      "coordinates": {
+        "latitude": "73.4006",
+        "longitude": "-61.8331"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "esat.denkel@example.com",
+    "login": {
+      "uuid": "643fd7be-cf90-472c-b0c0-9e77934db2ff",
+      "username": "smallbird641",
+      "password": "494949",
+      "salt": "V9KcDhYC",
+      "md5": "175cc7b0c2711524496c93e9de57f03a",
+      "sha1": "8928d149008264a935b3a5393a73edc063b254fc",
+      "sha256": "2c2e34a69acd850f085c433f20c38748f1d9ce3f307cc1fad85ea01e72e2e1f8"
+    },
+    "dob": {
+      "date": "1993-07-18T07:59:40.468Z",
+      "age": 28
+    },
+    "registered": {
+      "date": "2010-02-08T23:26:25.139Z",
+      "age": 11
+    },
+    "phone": "(522)-871-9968",
+    "cell": "(585)-932-7435",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/49.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    },
+    "nat": "TR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Carter",
+      "last": "Brown"
+    },
+    "location": {
+      "street": {
+        "number": 7222,
+        "name": "Cuba Street"
+      },
+      "city": "Porirua",
+      "state": "Wellington",
+      "country": "New Zealand",
+      "postcode": 99609,
+      "coordinates": {
+        "latitude": "35.7926",
+        "longitude": "112.7406"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "carter.brown@example.com",
+    "login": {
+      "uuid": "8d9f44b6-58d2-4308-b2ae-f664bc0e5b0f",
+      "username": "beautifulwolf514",
+      "password": "quattro",
+      "salt": "yytQWb3u",
+      "md5": "102408db33bf73a9bda0763ffa7416bd",
+      "sha1": "13602a6060f5981c2595ef0c6aea552a62e5834b",
+      "sha256": "8dae46f5778bb972c4c512d4cbb37701f81a4c91f2107a6a9464f892c23e735c"
+    },
+    "dob": {
+      "date": "1996-07-23T20:34:20.140Z",
+      "age": 25
+    },
+    "registered": {
+      "date": "2003-09-28T14:37:22.813Z",
+      "age": 18
+    },
+    "phone": "(715)-648-4595",
+    "cell": "(138)-675-1745",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/24.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+    },
+    "nat": "NZ"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Filippo",
+      "last": "Wegner"
+    },
+    "location": {
+      "street": {
+        "number": 2817,
+        "name": "Meisenweg"
+      },
+      "city": "Friesland",
+      "state": "Berlin",
+      "country": "Germany",
+      "postcode": 47593,
+      "coordinates": {
+        "latitude": "-7.0316",
+        "longitude": "165.4415"
+      },
+      "timezone": {
+        "offset": "+4:00",
+        "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      }
+    },
+    "email": "filippo.wegner@example.com",
+    "login": {
+      "uuid": "13b38a7d-79f8-435d-9b92-c79424e94a42",
+      "username": "ticklishcat853",
+      "password": "jaime",
+      "salt": "fx5BLkPf",
+      "md5": "62b0fd3349fa0f90d7525cf26ed6c75d",
+      "sha1": "a7320729f9aecaab2c0f9d8c6661e922de5bada8",
+      "sha256": "ca175b92d32f30bfbe734cb0d86a3fdbc6762ecf9911ad6b3ab71532ee90c195"
+    },
+    "dob": {
+      "date": "1951-03-25T19:01:50.576Z",
+      "age": 70
+    },
+    "registered": {
+      "date": "2017-09-24T12:30:00.137Z",
+      "age": 4
+    },
+    "phone": "0099-1856891",
+    "cell": "0179-2081350",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/81.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "DE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Josef",
+      "last": "Lee"
+    },
+    "location": {
+      "street": {
+        "number": 3225,
+        "name": "Park Avenue"
+      },
+      "city": "Plymouth",
+      "state": "Dyfed",
+      "country": "United Kingdom",
+      "postcode": "GG9 0QR",
+      "coordinates": {
+        "latitude": "-14.8133",
+        "longitude": "-148.9660"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "josef.lee@example.com",
+    "login": {
+      "uuid": "5e792a17-d2d1-4ec0-bf2e-9adf2e40c158",
+      "username": "smalltiger417",
+      "password": "comet",
+      "salt": "rmiyomjt",
+      "md5": "ffead50ad2741f2e8ae537097840ca40",
+      "sha1": "c14d271682ed6242c555ad188ccc4d947806cf78",
+      "sha256": "f12ef23de904d76c00fb829489155e18ad68850957d5f16d8300841c27d76386"
+    },
+    "dob": {
+      "date": "1981-03-19T05:23:08.340Z",
+      "age": 40
+    },
+    "registered": {
+      "date": "2015-07-11T12:53:46.464Z",
+      "age": 6
+    },
+    "phone": "016977 7688",
+    "cell": "0712-964-081",
+    "id": {
+      "name": "NINO",
+      "value": "ER 08 71 59 U"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/38.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    },
+    "nat": "GB"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Lily",
+      "last": "Anderson"
+    },
+    "location": {
+      "street": {
+        "number": 9790,
+        "name": "Stanley Way"
+      },
+      "city": "Aylmer",
+      "state": "British Columbia",
+      "country": "Canada",
+      "postcode": "U7T 9M7",
+      "coordinates": {
+        "latitude": "-83.9084",
+        "longitude": "17.4500"
+      },
+      "timezone": {
+        "offset": "+5:30",
+        "description": "Bombay, Calcutta, Madras, New Delhi"
+      }
+    },
+    "email": "lily.anderson@example.com",
+    "login": {
+      "uuid": "588c59a5-2432-4633-a53c-e5ac65657376",
+      "username": "orangezebra772",
+      "password": "kathy1",
+      "salt": "tWBhhMAh",
+      "md5": "7477b6859b98af635b96803675751937",
+      "sha1": "29315859904a301db22561c9bb43a5a2006ab39f",
+      "sha256": "9244ad397a8c65a3d2c2ca6ce655f4b299852f912d292b8a52231d9a1f4debc7"
+    },
+    "dob": {
+      "date": "1964-03-07T19:57:16.143Z",
+      "age": 57
+    },
+    "registered": {
+      "date": "2013-11-20T05:31:00.537Z",
+      "age": 8
+    },
+    "phone": "693-152-7259",
+    "cell": "289-734-0960",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/36.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "CA"
+  }
+]
